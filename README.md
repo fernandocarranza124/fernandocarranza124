@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hola, soy Fernando Isacc Carranza Salazar
+# Fernando Isacc Carranza Salazar
 
-### Desarrollador Full Stack .NET | SQL Server | Docente de programación | Explorador de IA, automatización y tecnología creativa
+### Desarrollador Full Stack .NET y JAVA | SQL Server | Docente de programación | Explorador de IA, automatización y tecnología creativa
 
 [![GitHub](https://img.shields.io/badge/GitHub-fernandocarranza124-181717?style=for-the-badge&logo=github)](https://github.com/fernandocarranza124)
 [![Portfolio](https://img.shields.io/badge/Portfolio-en%20desarrollo-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/fernandocarranza124/Portfolio)
@@ -14,9 +14,9 @@
 
 ## Sobre mí
 
-Soy **desarrollador de software full stack** con experiencia en sistemas web institucionales, bases de datos SQL Server, desarrollo backend con **C# / ASP.NET**, consumo de servicios, automatización de procesos y construcción de soluciones orientadas a usuarios reales.
+Soy **desarrollador de software full stack** con experiencia en sistemas web institucionales, bases de datos SQL Server, desarrollo backend con **C# / ASP.NET** y **Java / SpringBoot**, consumo de servicios, automatización de procesos y construcción de soluciones orientadas a usuarios reales.
 
-Actualmente trabajo principalmente con tecnologías del ecosistema **.NET**, **SQL Server**, **JavaScript**, **jQuery**, **Bootstrap**, servicios web y reportes. Además, imparto clases universitarias relacionadas con programación, bases de datos, programación lógica/funcional y métodos numéricos.
+Actualmente trabajo principalmente con tecnologías del ecosistema **Java** **.NET**, **SQL Server**, **JavaScript**, **jQuery**, **Node**, servicios web y reportes. Además, imparto clases universitarias relacionadas con programación, bases de datos, programación lógica/funcional y métodos numéricos.
 
 Me interesa construir software útil, claro y mantenible, combinando ingeniería, docencia, diseño de interfaces, automatización e inteligencia artificial aplicada.
 
